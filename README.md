@@ -1,16 +1,25 @@
-# shop
+# Shopping App
 
-A new Flutter project.
+Örnek bir online  alışveriş sitesi
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+- New photos will be added
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+|                   0000                    |                   0001                   |                   0010                   |                       0011                        |
+|:-----------------------------------------:|:----------------------------------------:|:----------------------------------------:|:-------------------------------------------------:|
+| ![](assets/ssler/1.png) | ![](assets/ssler/2.png) | ![](assets/ssler/3.png) | ![]() |
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Kullanılanlar ve Paketler
+
+- Google Cloud Service
+- https://storyset.com/
+- https://unsplash.com/
+- google_maps_flutter: ^2.0.10
+- location: ^5.0.0
+- map_launcher: ^2.5.0+1
+- flutter_map_location_marker: ^6.0.0
+- qr_code_scanner: ^1.0.1
+- permission_handler: ^10.4.3
